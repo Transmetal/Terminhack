@@ -1,16 +1,9 @@
 # Terminhack
-
-[![License][license-src]][license-href]
-[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
-[![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
-
 👨‍💻 Impress your friends by pretending to be a real hacker (works directly from the terminal)
 
 Unlike many websites like Geektyper or Hackertyper, Terminhack shows real hacking tools in action and their possible outcome following a real penetration testing process. It can be used through the website or direcly from the terminal!
 
 I made this little website for fun, while doing my learning month about penetration testing.
-
-### 👉 [Read more](https://medium.com/learning-lab/getting-started-with-ethical-hacking-1aa6401355fa)
 
 <hr>
 <em>Terminhack is a web service that lets you pretend to be a hacker running real penetration testing tools. Even though it shows the real commands and their response, it does not perform any of these actions for real, it is only faking it. Remember that running any of these commands displayed in Terminhack, for real, against a target or performing hack attempts against a target without their explicit permission is illegal. We are not responsible for any trouble you may get into with this.
@@ -19,9 +12,6 @@ Terminhack has been built for educational purposes to remember the steps of pene
 
 
 ## 📖 How to use
-
-### From the browser
-Go to https://terminhack.learn.uno and click on the "Run this command from my browser"
 
 ### From the terminal
 ```sh
@@ -77,34 +67,3 @@ npm run dev
 docker build . -t terminhack
 docker run -p 3000:80 terminhack
 ```
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-## ⭐️ Show your support
-
-Please ⭐️ this repository if this project helped you!
-
-<a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
-
-## 🍺 Buy me a beer
-
-If you like this project, feel free to donate:
-
-- PayPal: https://www.paypal.me/kanbanote
-- Bitcoin: 19JiNZ1LkMaz57tewqJaTg2hQWH4RgW4Yp
-- Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
-- Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
-- Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
-
-## 📄 License
-
-[MIT License](./LICENSE)
-
-Copyright (c) Sandoche Adittane
-
-<!-- Badges -->
-
-[license-src]: https://img.shields.io/npm/l/darkmode-js.svg
-[license-href]: ./LICENSE
